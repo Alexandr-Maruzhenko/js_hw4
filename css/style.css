@@ -1,0 +1,22 @@
+
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+.item2 p{
+    overflow: auto;
+}
+
+.point_11{
+    width: 100%;
+}
+.point_11 p{
+    font-family: 'Oxygen Mono', monospace;
+    letter-spacing: 3px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #000000;
+    display: inline-block;
+    vertical-align: auto;
+}
